@@ -14,10 +14,7 @@
 `Development Channel <https://gitter.im/translate/dev>`_
 
 
-`Pootle <http://pootle.translatehouse.org/>`_ is an online translation and
-localization tool.  It works to lower the barrier of entry, providing tools to
-enable teams to work towards higher quality while welcoming newcomers.
-
+`dict.io <https://dict.io>`_ is an online translation site that presents example sentences for common translations. Supported languages for translations on dict.io are currently English and German, but other languages like Spanish, Japanese or French will be supported in the future.
 
 Pootle is a Server
 ------------------
